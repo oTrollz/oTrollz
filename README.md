@@ -6,6 +6,6 @@ Below is a bit about me!!
 
 Professional Discord Developer
 Experienced Moderator/Administrator
-Discord : https://discord.gg/theprojectmc
-Portfolio : https://dev.theprojectmc.net
-Email : otrollz@theprojectmc.net
+Discord: https://discord.gg/theprojectmc
+Portfolio: https://dev.theprojectmc.net
+Email: otrollz@theprojectmc.net
